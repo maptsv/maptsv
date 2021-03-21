@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maptsv
-- 👀 I’m interested in managment, people commubication, automation testing, computer science, math and online educarion.
-- 🌱 I’m currently learning the automation of software testing and studying in Novosibirsk State University.
+- 👀 I’m interested in management, communication with people, automated testing, computer science, mathematics, and online education.
+- 🌱 I’m currently learning the automation of software testing and studying at Novosibirsk State University.
 - 💞️ I’m looking to collaborate on <...>
 - 📫 How to reach me:
       gmail - mpokoptsev@gmail.com
